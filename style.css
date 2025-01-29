@@ -2,3 +2,8 @@ h1{
     background-color: aqua;
     color: black;
 }
+h2{
+    color: black;
+    background-color: bisque;
+    font-size: 10rem;
+}
